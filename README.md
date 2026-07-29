@@ -18,8 +18,4 @@ Calculations: DAX measures for headcount, average and median salaries, and dynam
 Filtering: Cross-filtering enabled between relational tables to support drill-downs and page-level tooltips.
 
 Repository Contents
-data/ — Raw dataset files used in the report.
-
-reports/ — Power BI template / .pbix report file.
-
-screenshots/ — Visual previews of dashboard pages.
+* `newreport.pbix` — Complete Power BI report file with data model, DAX measures, and dashboard layouts.
