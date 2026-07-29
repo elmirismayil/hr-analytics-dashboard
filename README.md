@@ -1,5 +1,3 @@
-Aşağıdakı mətni yaradılacaq README.md faylının daxilinə birbaşa yerləşdirə bilərsən. Sadə, səliqəli və tam real layihə stildə yazılıb:
-
 HR & Salary Analytics Dashboard
 An end-to-end Power BI dashboard built to analyze workforce demographics, employee performance, and salary distribution across departments and seniority levels.
 
